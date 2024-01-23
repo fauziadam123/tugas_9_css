@@ -1,0 +1,14 @@
+body{ background-image: url(slider2.jpg); background-size: cover;}
+div{  width: 960px; 
+     height: 700px; 
+     background-color: white;
+font-weight: bolder;
+        text-align: right;
+          margin:0 auto  ;
+           float: right ;
+          position: relative; z-index: 1;
+        
+ 
+ 
+        
+    }
